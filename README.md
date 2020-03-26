@@ -1,6 +1,6 @@
 
 #ToDoApp
-======
+
 This repository was used for my first react application called the ToDoApp
 
 
